@@ -67,5 +67,9 @@ For PDFix SDK licensing or issues, contact `support@pdfix.net`.
 ## Licenses
 
 - [PDFix Terms](https://pdfix.net/terms)
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) — [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) — [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+- [RapidOCR](https://github.com/RapidAI/RapidOCR) — [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 Trial versions of the PDFix SDK may apply watermarks and redact random content in the output PDF.
+
